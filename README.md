@@ -1,6 +1,6 @@
 ### Hi there! 😌
 
-🌱 I’m currently learning Swift and C/C++
+🌱 I’m currently learning C/C++ and Java
 
 <!--
 **linpoa/linpoa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
