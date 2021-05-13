@@ -1,6 +1,8 @@
-### Hi there! 😌
+### Hi there! 👋🏻
 
-🌱 I’m currently learning C/C++ and Java
+📌 I'm currently working on project to create a shell that will emulate bash behavior
+👩🏻‍💻 Learning C/C++ and Java
+
 
 <!--
 **linpoa/linpoa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
