@@ -1,6 +1,8 @@
 ### Hi there! 👋🏻
 
-📌 I'm currently working on project to create a shell that will emulate bash behavior
+42 student (School 21, Moscow)
+
+📌 I'm currently working on project to create a shell that will emulate bash behavior\
 👩🏻‍💻 Learning C/C++ and Java
 
 
