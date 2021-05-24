@@ -2,7 +2,7 @@
 
 I'm 42 student (School 21, Moscow)
 
-📌 Currently working on project to create a shell that will emulate bash behavior\
+📌 Currently working on project devoted to dining philosophers problem\
 👩🏻‍💻 Learning C/C++ and Java
 
 
