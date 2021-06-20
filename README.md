@@ -1,6 +1,6 @@
 ### Hi there! 👋🏻
 
-📍 42 student (School 21, Moscow)
+📍 42 student (School 21, Moscow)\
 👩🏻‍💻 C/C++ developer
 
 
