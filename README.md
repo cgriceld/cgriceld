@@ -2,7 +2,7 @@
 
 📌 HSE graduate (Economic Sciences, bachelor)\
 📌 42 student (School 21, Moscow)\
-👩🏻‍💻 C/C++ developer
+👩🏻‍💻 C/C++ developer\
 👩🏻‍💻 Currently learning Go
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=linpoa&layout=compact&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
