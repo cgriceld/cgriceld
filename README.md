@@ -1,6 +1,4 @@
-### Hi there! 👋🏻
-
-📌 HSE graduate (Economic Sciences, bachelor)\
+📌 HSE graduate\
 📌 42 student (School 21, Moscow)\
 👩🏻‍💻 Go, C/C++ developer
 
