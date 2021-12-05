@@ -1,4 +1,5 @@
-📌 HSE graduate\
+
+👩🏻‍🎓 HSE graduate\
 📌 42 student\
 📬 telegram: https://t.me/linpoa
 
