@@ -1,7 +1,4 @@
-
-👩🏻‍🎓 HSE graduate\
-📌 42 student\
-📘 I'm interested in backend development, asynchronous programming and Unix\
+📘 I'm interested in Unix, backend development and asynchronous programming\
 📬 Telegram: https://t.me/linpoa
 
 
